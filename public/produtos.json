@@ -4,47 +4,53 @@
         "nome": "Camiseta Básica",
         "descricao": "Camiseta de algodão confortável e versátil.",
         "preco": 29.99,
-        "imagem": "camiseta_basica.jpg",
-        "avaliacao": 4.5
+        "imagem": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSMu9BtOF8hUl0SuyyMgTmgmvjKYKwvwjMneKjzhBypvHECQ4cKL_Pc5zrDKCzx3hYID_t_Ie-Vz_n_CIDFedX3xmB1sbYyynkt76kjQ4PfiKCdia7-pz52RVd_",
+        "avaliacao": 4.5,
+        "tag": "Novo"
     },
     {
         "id": 2,
         "nome": "Calça Jeans",
         "descricao": "Calça jeans clássica com corte reto.",
         "preco": 79.99,
-        "imagem": "calca_jeans.jpg",
-        "avaliacao": 4.0
+        "imagem": "https://images.tcdn.com.br/img/img_prod/769687/calca_jeans_masculina_premium_tamanho_especial_c_elastano_cos_meio_elastico_jamer_m4773_2155_variacao_12295_1_fe6e18190cdf94df5d2439e7db86c864.jpg",
+        "avaliacao": 4.0,
+        "tag": "Promo"
     },
     {
         "id": 3,
         "nome": "Tênis Esportivo",
         "descricao": "Tênis leve e respirável para atividades físicas.",
         "preco": 119.99,
-        "imagem": "tenis_esportivo.jpg",
-        "avaliacao": 4.8
+        "imagem": "https://cdn.shoppub.io/cdn-cgi/image/w=1000,h=1000,q=80,f=auto/difranca/media/uploads/produtos/foto/b367a943ada1ewhatsapp-image-2022-02-04-at-143244.jpeg",
+        "avaliacao": 4.8,
+        "tag": "Novo"
     },
     {
         "id": 4,
         "nome": "Mochila Casual",
         "descricao": "Mochila resistente com vários compartimentos.",
         "preco": 49.99,
-        "imagem": "mochila_casual.jpg",
-        "avaliacao": 4.2
+        "imagem": "https://static.zattini.com.br/produtos/mochila-hd-casual-masculina-bolsa-notebook-espacosa-resistente-trabalho-faculdade/56/8E4-1192-256/8E4-1192-256_zoom4.jpg?ts=1723028719&ims=544x",
+        "avaliacao": 4.2,
+        "tag": null
     },
     {
         "id": 5,
         "nome": "Relógio de Pulso",
         "descricao": "Relógio elegante com design moderno.",
         "preco": 199.99,
-        "imagem": "relogio_pulso.jpg",
-        "avaliacao": 4.7
+        "imagem": "https://golden.vtexassets.com/arquivos/ids/2857652/Relogio-Masculino-Sport-Orient-Cronografo-Prata--MBSSC244-D2SX.jpg?v=638845976704830000",
+        "avaliacao": 4.7,
+        "tag": "Novo"
     },
     {
         "id": 6,
         "nome": "Essencial Sentir",
         "descricao": "Relógio elegante com design moderno.",
         "preco": 199.99,
-        "imagem": "relogio_pulso.jpg",
-        "avaliacao": 4.7
+        "imagem": "https://acdn-us.mitiendanube.com/stores/004/272/506/products/essencial-sentir-masculino-100-ml-1-812ff8fd19547d8b7a17483728794662-1024-1024.jpg",
+        "avaliacao": 4.7,
+        "tag": null
     }
 ]
