@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "nome": "Camiseta Básica",
+        "descricao": "Camiseta de algodão confortável e versátil.",
+        "preco": 29.99,
+        "imagem": "camiseta_basica.jpg",
+        "avaliacao": 4.5
+    },
+    {
+        "id": 2,
+        "nome": "Calça Jeans",
+        "descricao": "Calça jeans clássica com corte reto.",
+        "preco": 79.99,
+        "imagem": "calca_jeans.jpg",
+        "avaliacao": 4.0
+    },
+    {
+        "id": 3,
+        "nome": "Tênis Esportivo",
+        "descricao": "Tênis leve e respirável para atividades físicas.",
+        "preco": 119.99,
+        "imagem": "tenis_esportivo.jpg",
+        "avaliacao": 4.8
+    },
+    {
+        "id": 4,
+        "nome": "Mochila Casual",
+        "descricao": "Mochila resistente com vários compartimentos.",
+        "preco": 49.99,
+        "imagem": "mochila_casual.jpg",
+        "avaliacao": 4.2
+    },
+    {
+        "id": 5,
+        "nome": "Relógio de Pulso",
+        "descricao": "Relógio elegante com design moderno.",
+        "preco": 199.99,
+        "imagem": "relogio_pulso.jpg",
+        "avaliacao": 4.7
+    },
+    {
+        "id": 6,
+        "nome": "Essencial Sentir",
+        "descricao": "Relógio elegante com design moderno.",
+        "preco": 199.99,
+        "imagem": "relogio_pulso.jpg",
+        "avaliacao": 4.7
+    }
+]
