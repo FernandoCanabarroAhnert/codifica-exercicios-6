@@ -1,4 +1,4 @@
-import '../../styles/global.css';
+import '../../styles/css-global.css';
 import Header from './components/Header';
 import ProductGrid from './components/ProductGrid';
 

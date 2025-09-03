@@ -1,0 +1,59 @@
+:root {
+    --body-bg-color: #f5f5f5;
+    --header-bg-color: cadetblue;
+    --primary-text-color: #000;
+    --contrast-text-color: #fff;
+}
+
+:root[data-theme="dark"] {
+    --body-bg-color: rgb(34, 34, 34);
+    --header-bg-color: rgb(27, 46, 46);
+    --primary-text-color: #fff;
+    --contrast-text-color: #000;
+}
+
+.css_modules {
+    background-color: var(--body-bg-color);
+}
+
+.css_modules_container {
+    margin: 0 auto;
+    width: 95%;
+}
+
+.products_title {
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin: 1.5rem 0;
+    color: var(--primary-text-color);
+}
+
+@media (min-width: 640px) {
+    .css_modules_container {
+        width: 640px;
+    }
+}
+
+@media (min-width: 768px) {
+    .css_modules_container {
+        width: 768px;
+    }
+}
+
+@media (min-width: 1024px) {
+    .css_modules_container {
+        width: 1024px;
+    }
+}
+
+@media (min-width: 1200px) {
+    .css_modules_container {
+        width: 1200px;
+    }
+}
+
+@media (min-width: 1400px) {
+    .css_modules_container {
+        width: 1400px;
+    }
+}
