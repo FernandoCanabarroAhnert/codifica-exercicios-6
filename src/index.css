@@ -1,3 +1,17 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+:root {
+    --body-bg-color: #f5f5f5;
+    --header-bg-color: cadetblue;
+    --primary-text-color: #000;
+    --contrast-text-color: #fff;
+}
+
+:root[data-theme="dark"] {
+    --body-bg-color: rgb(34, 34, 34);
+    --header-bg-color: rgb(27, 46, 46);
+    --primary-text-color: #fff;
+    --contrast-text-color: #000;
+}
