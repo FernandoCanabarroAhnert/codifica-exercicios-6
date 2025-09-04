@@ -2,7 +2,7 @@ export default function ProductCard({ product }) {
     return (
         <div className="product-card">
             <div className="product-card-img-wrapper">
-                <img src={product.imagem} alt={product.nome} />
+                <img loading="lazy" src={product.imagem} alt={product.nome} />
                 {
                     product.tag && <span className={`product-card-tag product-card-tag-${product.tag.toLowerCase()}`}>{product.tag}</span>
                 }
